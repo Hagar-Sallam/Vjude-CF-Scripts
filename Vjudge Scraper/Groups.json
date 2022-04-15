@@ -1,0 +1,62 @@
+{
+  "GroupX": {
+    "handles": [
+      "zezoo050",
+      "omaradwan",
+      "Mustafa_Bahnasy",
+      "MoamenSherif",
+      "ammar7018",
+      "aligadallah",
+      "MEGZ112233",
+      "AhmedOsama11",
+      "go_next",
+      "Abdelrhman_ahmed",
+      "test"
+    ],
+    "problems": ["F","B","C"]
+  },
+  "GroupY": {
+    "handles": ["Youssefmorsi1", "Haruyukio", "Ali_Tarek9", "Abanoub_Ashraf"],
+     "problems": ["F","B","C"]
+  },
+  "GroupZ": {
+    "handles": ["Ahmed1Galal", "mageds", "youssef57"],
+    "problems": ["A","B","C","E"]
+  },
+  "GroupA": {
+    "handles": [
+      "Yousef_Sameh",
+      "YoussefMohammed1",
+      "nagyjosef",
+      "Zeyad_Atef",
+      "MohmedSalah",
+      "Nouran_Ahmed",
+      "AZOUNY",
+      "O_omar_fayez",
+      "omarmamdouh14",
+      "osgh",
+      "Senior900",
+      "Eiad_Ahmed",
+      "_alitarek",
+      "ahmedsaif10"
+    ],
+    "problems": ["F","B","C"]
+  },
+  "GroupB": {
+    "handles": [
+      "O_o3AsFOUr",
+      "Verinagad",
+      "itsmosalah",
+      "Mohamed_AboElela",
+      "Medo2525",
+      "mm480999",
+      "Maria_Tawfek",
+      "MariamAlaa",
+      "hanaaahmed",
+      "andrew32",
+      "Alighaleb",
+      "ahmedfathy99919"
+    ],
+    "problems": ["F","B","C"]
+  }
+}
